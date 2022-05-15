@@ -1,0 +1,46 @@
+body{
+    background-image: url(background.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left: 10%;
+    margin-right: 10%;
+    display:block;
+
+}
+
+h1{
+    color: rgb(16, 194, 164);
+}
+div:hover{
+
+    font-size: larger;
+}
+
+div{
+
+
+font-size: large;
+width: 20%;
+
+color: aqua;
+border: 3px;
+border-style:solid;
+padding: 2%;
+border-width: 3px;
+border-radius: 10px;
+margin: 5px auto 10px auto;
+}
+
+.discord{
+    float: left;
+    color: rgb(0, 132, 255)
+}
+
+.Yt{
+    float: right;
+    color: rgb(0, 132, 255)
+}
+
+.asd{
+    color: rgb(16, 194, 164);
+}
